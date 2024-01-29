@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I am Linkan Kumar Sahu ,
+
+My interest are 
+
+Python
+Machine Learning
+Deep Learning
+Computer Vision
+
 <!--
 **Sahulinkan7/Sahulinkan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
