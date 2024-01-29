@@ -14,7 +14,7 @@ you can also find me on
 
 [![LinkedIn](logos/linkedin.png)](https://www.linkedin.com/in/linkan-kumar-sahu/)  [![Twitter](logos/twitter.png)](https://twitter.com/sahulinkan7)
 
-reach me out on [Email](sahulinkan7@gmail.com)
+Email me on sahulinkan7@gmail.com
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=green)
 
