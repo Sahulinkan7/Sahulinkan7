@@ -1,14 +1,18 @@
 ### Hi, nice to see you here on my profile 👋
 
-I am Linkan, 
+I am Linkan, a Data Science enthusiast from Odisha, India.
 
 I am interested in 
 
-Python
-Django
-Machine Learning
-Deep Learning
-Computer Vision
+- Python
+- Django
+- Machine Learning
+- Deep Learning
+- Computer Vision
+
+- LinkedIn: [Link to LinkedIn](https://www.linkedin.com/in/linkan-kumar-sahu/)
+- Twitter: [Link_to_Twitter](https://twitter.com/sahulinkan7)
+- Email: sahulinkan7@gmail.com
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=green)
 <!--
