@@ -10,6 +10,7 @@ Machine Learning
 Deep Learning
 Computer Vision
 
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=green)
 <!--
 **Sahulinkan7/Sahulinkan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
