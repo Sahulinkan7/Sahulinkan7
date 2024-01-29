@@ -11,9 +11,9 @@ I am interested in
 - Computer Vision
 
 you can also find me on 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/linkan-kumar-sahu/)
-- Twitter: [Twitter](https://twitter.com/sahulinkan7)
-- Email: sahulinkan7@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/linkan-kumar-sahu/)
+- [Twitter](https://twitter.com/sahulinkan7)
+- [Email](sahulinkan7@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=green)
 
