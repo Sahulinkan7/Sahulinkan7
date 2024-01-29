@@ -10,11 +10,14 @@ I am interested in
 - Deep Learning
 - Computer Vision
 
-- LinkedIn: [Link to LinkedIn](https://www.linkedin.com/in/linkan-kumar-sahu/)
-- Twitter: [Link_to_Twitter](https://twitter.com/sahulinkan7)
+you can also find me on 
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/linkan-kumar-sahu/)
+- Twitter: [Twitter](https://twitter.com/sahulinkan7)
 - Email: sahulinkan7@gmail.com
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=green)
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=prs,issues,contribs)](https://github.com/yourusername)
 <!--
 **Sahulinkan7/Sahulinkan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
