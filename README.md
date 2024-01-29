@@ -12,7 +12,9 @@ I am interested in
 
 you can also find me on 
 
-[![LinkedIn](logos/linkedin.png)](https://www.linkedin.com/in/linkan-kumar-sahu/)  [![Twitter](logos/twitter.png)](https://twitter.com/sahulinkan7)  [![Email](logos/gmail.png)](sahulinkan7@gmail.com)
+[![LinkedIn](logos/linkedin.png)](https://www.linkedin.com/in/linkan-kumar-sahu/)  [![Twitter](logos/twitter.png)](https://twitter.com/sahulinkan7)
+
+reach me out on [Email](sahulinkan7@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=green)
 
