@@ -1,10 +1,11 @@
-### Hi there 👋
+### Hi, nice to see you here on my profile 👋
 
-I am Linkan Kumar Sahu ,
+I am Linkan, 
 
-My interest are 
+I am interested in 
 
 Python
+Django
 Machine Learning
 Deep Learning
 Computer Vision
