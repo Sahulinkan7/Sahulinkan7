@@ -17,11 +17,22 @@ you can also find me on
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=green)
 
-Email me on sahulinkan7@gmail.com                
+Email me on sahulinkan7@gmail.com  
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sahulinkan7&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<p align="">
+ <a href="https://github.com/sahulinkan7">
+   <img height="160em" width="450em" src="http://github-readme-streak-stats.herokuapp.com?user=sahulinkan7&theme=radical"/>
+   <img height="160em" width="550em" src="https://github-readme-stats.vercel.app/api?username=sahulinkan7&show_icons=true&count_private=true&hide=prs,issues,contribs">
+ </a>
+</p>
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahulinkan7&show_icons=true&count_private=true&hide=prs,issues,contribs)](https://github.com/sahulinkan7)
+<p align="">
+ <a href="https://github.com/sahulinkan7">
+   <img height="160em" width="450em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sahulinkan7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+   <img height="160em" width="550em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sahulinkan7&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+ </a>
+</p>
+
 
  
 <!--
