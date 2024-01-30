@@ -48,15 +48,15 @@ My Tech stack
 
 <p style='float:right' align="center">
  
-  <a style="text-decoration: none; color: black;" href="https://www.linkedin.com/in/linkan-kumar-sahu/" style="font-size: 0;">
+  <a href="https://www.linkedin.com/in/linkan-kumar-sahu/" style="font-size: 0;">
    <img src="logos/linkedin.png"/>
   </a>
  
-  <a style="text-decoration: none; color: black;" href="https://twitter.com/sahulinkan7">
+  <a href="https://twitter.com/sahulinkan7">
    <img src="logos/twitter.png"/>
   </a>
 
-  <a style="text-decoration: none; color: black;" href="mailto:sahulinkan7@gmail.com">
+  <a href="mailto:sahulinkan7@gmail.com">
    <img src="logos/gmail.png"/>
   </a> 
   
