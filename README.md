@@ -33,32 +33,19 @@ My Tech stack
 ### Github Analytics
 
 <p align="">
- <a href="https://github.com/sahulinkan7">
-   <img height="150em" width="400em" src="http://github-readme-streak-stats.herokuapp.com?user=sahulinkan7&theme=radical"/>
-   <img height="180em" width="340em" src="https://github-readme-stats.vercel.app/api?username=sahulinkan7&show_icons=true&count_private=true&hide=prs,issues,contribs">
+ <a href="https://github.com/sahulinkan7"><img height="150em" width="400em" src="http://github-readme-streak-stats.herokuapp.com?user=sahulinkan7&theme=radical"/><img height="180em" width="340em" src="https://github-readme-stats.vercel.app/api?username=sahulinkan7&show_icons=true&count_private=true&hide=prs,issues,contribs">
  </a>
 </p>
 
 <p align="">
- <a href="https://github.com/sahulinkan7">
-   <img height="160em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sahulinkan7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-   <img height="160em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sahulinkan7&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+ <a href="https://github.com/sahulinkan7"><img height="160em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sahulinkan7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><img height="160em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sahulinkan7&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
  </a>
 </p>
 
-<p style='float:right' align="center">
- 
-  <a href="https://www.linkedin.com/in/linkan-kumar-sahu/" style="font-size: 0;">
-   <img src="logos/linkedin.png"/>
-  </a>
- 
-  <a href="https://twitter.com/sahulinkan7">
-   <img src="logos/twitter.png"/>
-  </a>
-
-  <a href="mailto:sahulinkan7@gmail.com">
-   <img src="logos/gmail.png"/>
-  </a> 
+<p align="center">
+  <a href="https://www.linkedin.com/in/linkan-kumar-sahu/" style="font-size: 0;"><img src="logos/linkedin.png"/></a>
+  <a href="https://twitter.com/sahulinkan7"><img src="logos/twitter.png"/></a>
+  <a href="mailto:sahulinkan7@gmail.com"><img src="logos/gmail.png"/></a> 
   
 </p>
 
