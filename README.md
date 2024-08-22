@@ -13,6 +13,7 @@ I am interested in
 - Machine Learning
 - Deep Learning
 - Computer Vision
+- Natural Language Processing (NLP)
   
 My Tech stack
 
