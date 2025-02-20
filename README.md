@@ -46,7 +46,7 @@ My Tech stack
 <p align="center">
   <a href="https://www.linkedin.com/in/linkan-kumar-sahu/" style="font-size: 0;"><img src="logos/linkedin.png"/></a>
   <a href="https://twitter.com/sahulinkan7"><img src="logos/twitter.png"/></a>
-  <a href="mailto:sahulinkan7@gmail.com"><img src="logos/gmail.png"/></a> 
+  <a href="mailto:linkansahu.official@gmail.com"><img src="logos/gmail.png"/></a> 
   
 </p>
 
